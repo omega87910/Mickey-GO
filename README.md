@@ -5,12 +5,12 @@ There are Login and register function ,online user list, Lobby chat room, Privat
 You can choose user who you want to apply for a game.<br>
 In the game of end, it can judge which is white or black 's field, and then calculate their field to judge who is win or lose.
 # What you can see in this Project?
-1.It complete the game of Go rules
-2.You can see who is online.
-3.You can reply for a game with online user.
-4.You can chat at Lobby,or private chat room.
-5.You can save or load game record in single room.
-6.In the end of game, it can calculate how many fields black/white have,and the judge who is win or lose.
+1.It complete the game of Go rules. <br>
+2.You can see who is online. <br>
+3.You can reply for a game with online user. <br>
+4.You can chat at Lobby,or private chat room. <br>
+5.You can save or load game record in single room. <br>
+6.In the end of game, it can calculate how many fields black/white have,and the judge who is win or lose. <br>
 # How to Start Game?
 If you want to try, you can download from here. <br>
 Clinet:https://drive.google.com/open?id=1tv-i03CeC_pGlf6gFH7Wy78mhC9tWZwg <br>
