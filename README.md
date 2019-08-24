@@ -10,7 +10,7 @@ In the game of end, it can judge which is white or black 's field, and then calc
 3.You can reply for a game with online user. <br>
 4.You can chat at Lobby,or private chat room. <br>
 5.You can save or load game record in single room. <br>
-6.In the end of game, it can calculate how many fields black/white have,and the judge who is win or lose. <br>
+6.In the end of game, it can judge which is black/white field and calculate how many fields black/white have,and then judge who is win or lose. <br>
 # How to Start Game?
 If you want to try, you can download from here. <br>
 Clinet:https://drive.google.com/open?id=1tv-i03CeC_pGlf6gFH7Wy78mhC9tWZwg <br>
