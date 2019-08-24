@@ -15,7 +15,7 @@ In the game of end, it can judge which is white or black 's field, and then calc
 If you want to try, you can download from here. <br>
 Clinet:https://drive.google.com/open?id=1tv-i03CeC_pGlf6gFH7Wy78mhC9tWZwg <br>
 Server:https://drive.google.com/open?id=1j5CB-CNRGK8TyAs5BWysVaYG5hSwgEIF <br>
-
+Project Explain:https://drive.google.com/open?id=1gh4_hxLh52w4C3UpWQWSkk62x8P6NEWQ <br>
 <h3>Before you start them, make sure your ip setting is correct.</h3> <br>
 
 # Required
