@@ -1,7 +1,7 @@
 # Mickey-GO(The game of GO)
 You can play the game of Go online.<br>
 This project is almost complete. <br>
-There are online user list, Lobby chat room, Private chat room, Single play room, Common play room <br>
+There are Login and register function ,online user list, Lobby chat room, Private chat room, Single play room, Common play room <br>
 You can choose user who you want to apply for a game.<br>
 In the game of end, it can judge which is white or black 's field, and then calculate their field to judge who is win or lose.
 # What you can see in this Project?
