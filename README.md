@@ -1,12 +1,11 @@
 # Mickey-GO(The game of GO)
 ## Introduction
+<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Mickey-GO/Login.png" width="70%" height="70%"></img><br>
 You can play the game of Go online.<br>
 This project is almost complete. <br>
 There are Login and register function ,online user list, Lobby chat room, Private chat room, Single play room, Common play room <br>
 You can choose user who you want to apply for a game.<br>
-<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/Mickey-GO/Login.png" width="70%" height="70%"></img><br>
-
-In the game of end, it can judge which is white or black 's field, and then calculate their field to judge who is win or lose.
+In the game of end, it can judge which is white or black 's field, and then calculate their field to judge who is win or lose.<br>
 ## What you can see in this Project?
 1.It complete the game of Go rules. <br>
 2.You can see who is online. <br>
