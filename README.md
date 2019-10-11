@@ -21,10 +21,11 @@ Server:https://drive.google.com/open?id=1j5CB-CNRGK8TyAs5BWysVaYG5hSwgEIF <br>
 Project Explain:https://drive.google.com/open?id=1gh4_hxLh52w4C3UpWQWSkk62x8P6NEWQ <br>
 <h3>Before you start them, make sure your ip setting is correct.</h3> <br>
 Edit ipconfig.conf in Client, Change to Server's ip <br>
+
 ## Required
 required OS : Windows <br>
 required JDK version : 10 <br>
 ### Step 1. Start Server
-It is very easy to do it. Just double-click start.bat.
+It is very easy to do it. Just double-click start.bat. <br>
 ### Step 2. Start Client
-It is also very easy to do it . Just double-click start.bat.
+It is also very easy to do it . Just double-click start.bat. <br>
