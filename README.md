@@ -20,7 +20,7 @@ Clinet:https://drive.google.com/open?id=1tv-i03CeC_pGlf6gFH7Wy78mhC9tWZwg <br>
 Server:https://drive.google.com/open?id=1j5CB-CNRGK8TyAs5BWysVaYG5hSwgEIF <br>
 Project Explain:https://drive.google.com/open?id=1gh4_hxLh52w4C3UpWQWSkk62x8P6NEWQ <br>
 <h3>Before you start them, make sure your ip setting is correct.</h3> <br>
-Edit ipconfig.conf in Clinet. change to Server's ip
+Edit ipconfig.conf in Client, Change to Server's ip <br>
 ## Required
 required OS : Windows <br>
 required JDK version : 10 <br>
